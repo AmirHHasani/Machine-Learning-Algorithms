@@ -1,4 +1,4 @@
-Tried using DBSCAN on iris dataset. I used matplotlib to visualize the results. The following evaluation metrics were also used:
+Tried using DBSCAN on iris dataset. I used scikit learn to import the model and matplotlib to visualize the results. The following evaluation metrics were also used:
 
 Homogeneity
 
