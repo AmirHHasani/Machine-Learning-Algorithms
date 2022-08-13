@@ -1,5 +1,3 @@
-This is a technique to artificially create extra samples.
+This is a technique to artificially create new samples. It is a solution to deal with imbalanced datasets without undersampling any class.
 
-It is used when dealing with an unbalanced dataset to balance out the sample number of different classes.
-
-An unbalanced dataset could cause overfitting in a model.
+An imbalanced dataset could cause a lot of problems in a model.
